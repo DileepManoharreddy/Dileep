@@ -1,0 +1,25 @@
+devops is a combanation of a certain auto machine tools are used to delivery the software application in a simple period of a time
+(development+operations)
+rm
+analysis
+design
+coding
+testing
+user testing
+sale
+ 
+if i need to create a software application,then i approch a company like wipro and ask them to create a carwala sa for me and they charge me for that project t
+they said me that cost and time 
+if suoppose they said to be it will be 20$ and 6 months they take to complete the work
+first the create a application and build one by one module if they take 4 weeks for each module (4weeks =sprint)
+by this at end of the first month we geting a first functionality we can use it,  they start to a another functionality.
+but if there is any issue raised by the testers, the devloper want to fix it by the scratch
+the total work will be stop in these we use devops to create a software applications in simple time
+   
+-- the developers write a code and update in GIT repositery and next
+--build(maven tool) the setupfiles
+--setupfiles was tested by the tester
+           but for a change
+  by using jenkins automately triggere the build process and deploye general done by (middleware engi)the testing process is completed the time efficency will be decrease
+ 
+ 
